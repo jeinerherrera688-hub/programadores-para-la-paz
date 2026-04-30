@@ -6,22 +6,3 @@ Respuesta: C
 
 Pregunta 3:
 Respuesta: B
-
-Pregunta 4:
-Respuesta: El uso responsable de la información en internet, la participación ciudadana y el trabajo técnico con herramientas como Git comparten una base común:
-la responsabilidad y el orden. Cuando navegamos en internet, tenemos el deber de verificar lo que leemos antes de compartirlo, porque difundir información falsa puede
-afectar a comunidades enteras y debilitar la confianza colectiva. Esa misma conciencia crítica es la que necesita un ciudadano activo: alguien que no acepta todo lo 
-que le dicen, sino que investiga, contrasta y actúa con criterio. Por otro lado, Git es una herramienta que nos enseña que cada cambio debe registrarse, 
-justificarse y poder revisarse, lo cual refleja exactamente el mismo principio de transparencia y trazabilidad que exige una buena ciudadanía digital. 
-Así como en Git no se borra el historial sin dejar huella, en internet nuestras acciones también tienen consecuencias. En definitiva, ser un buen ciudadano digital 
-significa actuar con la misma disciplina y ética que se espera en cualquier trabajo técnico serio: con orden, honestidad y sentido de comunidad.
-
-Pregunta 5:
-Respuesta: 
-1.Buscar la información en fuentes reconocidas.
-2.Revisar la fuente para comprobar que sea un sitio serio, con autor identificable y fecha de publicación.
-3.Confirmar la noticia buscando si otros medios confiables también la reportan.
-4.Verificar que la información no esté desactualizada o sacada de contexto.
-5.Leer el contenido completo antes de compartirlo, no solo el título o el encabezado.
-6.Compartir la información incluyendo el enlace original para que otros puedan verificarla.
-7.Si hay dudas sobre su veracidad, abstenerse de compartirla hasta tener certeza.
