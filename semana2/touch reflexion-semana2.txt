@@ -1,1 +1,8 @@
-
+La terminal es una herramienta muy útil porque permite realizar tareas con mayor rapidez.
+Facilita la creación y organización de carpetas de manera ordenada y eficiente.
+También posibilita ejecutar instrucciones sin necesidad de utilizar el mouse.
+Hace más sencillo el manejo de proyectos de gran tamaño.
+Es una herramienta esencial para quienes programan.
+Permite trabajar con Git de forma más avanzada y profesional.
+Contribuye a aumentar la productividad.
+Además, ayuda a comprender mejor cómo funciona el sistema de archivos.
