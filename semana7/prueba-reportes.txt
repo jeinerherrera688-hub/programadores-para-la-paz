@@ -1,1 +1,11 @@
+Al consultar la ruta GET /reportes, la API devuelve una lista de los reportes que han sido registrados en el sistema. La información se entrega en formato JSON, donde cada reporte contiene datos como el identificador (id), el tipo de incidencia y una descripción del problema reportado. Esto permite a los usuarios o administradores visualizar fácilmente los reportes almacenados y realizar seguimiento a las situaciones registradas por la comunidad.
 
+Ejemplo:
+
+[
+{
+"id": 1,
+"tipo": "Infraestructura",
+"descripcion": "Daño en alumbrado público"
+}
+]
