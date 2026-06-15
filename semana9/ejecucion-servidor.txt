@@ -1,1 +1,13 @@
+Cuando ejecuto el comando `node server.js`, Node.js inicia la aplicación y pone en funcionamiento el servidor web definido en el archivo. Si no existen errores en el código, el servidor queda listo para recibir solicitudes de los usuarios.
 
+En la terminal normalmente aparece un mensaje indicando que el servidor está activo, por ejemplo:
+`Servidor ejecutándose en el puerto 3000`.
+
+Cuando visito la ruta `/estado` desde el navegador o mediante una petición HTTP, el servidor responde con información sobre su estado actual en formato JSON.
+
+Ejemplo de respuesta:
+
+{
+"estado": "Servidor funcionando",
+"servicio": "API comunitaria"
+}
