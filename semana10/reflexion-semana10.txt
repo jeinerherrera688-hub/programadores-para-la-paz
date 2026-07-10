@@ -1,1 +1,7 @@
-
+Las metodologías ágiles permiten organizar el trabajo en tareas pequeñas y priorizadas, facilitando el avance continuo de los proyectos. 
+Además, ayudan a que los equipos se adapten rápidamente a los cambios y necesidades de la comunidad. 
+La automatización reduce el tiempo dedicado a tareas repetitivas y disminuye la posibilidad de errores.
+Herramientas como n8n permiten enviar notificaciones y realizar procesos de forma automática. 
+Telegram facilita la comunicación rápida entre los participantes y mantiene informados a los responsables. 
+Esto mejora la coordinación y el seguimiento de las actividades. También favorece una respuesta más oportuna a los problemas reportados por la comunidad. 
+En conjunto, estas herramientas contribuyen a una participación ciudadana más organizada, eficiente y transparente.
