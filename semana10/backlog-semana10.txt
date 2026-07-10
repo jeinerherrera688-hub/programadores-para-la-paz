@@ -1,1 +1,9 @@
+1. Como líder comunitario quiero visualizar las incidencias más frecuentes para identificar las necesidades prioritarias del barrio. (Prioridad alta)
 
+2. Como voluntario quiero asignarme una tarea pendiente para colaborar en la solución de un problema reportado. (Prioridad alta)
+
+3. Como habitante quiero adjuntar fotografías al reporte para mostrar con mayor claridad la situación presentada. (Prioridad media)
+
+4. Como supervisor quiero generar un resumen semanal de los reportes atendidos para evaluar el avance de las actividades. (Prioridad media)
+
+5. Como integrante de la comunidad quiero recibir una notificación cuando un problema haya sido resuelto para mantenerme informado. (Prioridad baja)
